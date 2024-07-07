@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiyaj Bin Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-faiyaj7-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiyaj7)](https://www.linkedin.com/in/faiyaj7)
 [![Website Badge](https://img.shields.io/badge/-faiyaj.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://faiyaj.com/)](https://faiyaj.com/)
